@@ -15,10 +15,6 @@ Navigate out of the MagicMirror folder
 cd ..
 Clone this repository (AI Smart Mirror)
 
-git clone git@github.com:HackerHouseYT/AI-Smart-Mirror.git
-Copy the folders in AI-Smart-Mirror/magic_mirror to MagicMirror/modules
-
-Copy the config.js file in AI-Smart-Mirror/magic_mirror to MagicMirror/config
 
 AI
 
